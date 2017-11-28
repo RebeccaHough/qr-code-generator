@@ -1,0 +1,4 @@
+#keep this directory in repo but do not track its contents
+*
+#except this file
+!.gitignore

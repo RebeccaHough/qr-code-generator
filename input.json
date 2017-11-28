@@ -1,0 +1,125 @@
+{
+    "took": 2,
+    "timed_out": false,
+    "_shards": {
+        "total": 5,
+        "successful": 5,
+        "failed": 0
+    },
+    "hits": {
+        "total": 40,
+        "max_score": 1.0,
+        "hits": [
+            {
+                "_index": "boxchain_carton_projection_v8",
+                "_type": "carton_projection",
+                "_id": "39cae740-3c7b-49b2-b216-5b0370ecd970",
+                "_score": 1.0,
+                "_source": {
+                    "guid": "39cae740-3c7b-49b2-b216-5b0370ecd970",
+                    "aliases": [],
+                    "carton_size": "size A"
+                }
+            },
+            {
+                "_index": "boxchain_carton_projection_v8",
+                "_type": "carton_projection",
+                "_id": "78481b10-741d-4e1e-af2f-6fa5c5bdc0d9",
+                "_score": 1.0,
+                "_source": {
+                    "guid": "78481b10-741d-4e1e-af2f-6fa5c5bdc0d9",
+                    "aliases": [],
+                    "carton_size": "size A"
+                }
+            },
+            {
+                "_index": "boxchain_carton_projection_v8",
+                "_type": "carton_projection",
+                "_id": "6e0d3afd-ee02-4e66-97e5-f7649d3ef0c9",
+                "_score": 1.0,
+                "_source": {
+                    "guid": "6e0d3afd-ee02-4e66-97e5-f7649d3ef0c9",
+                    "aliases": [],
+                    "carton_size": "size A"
+                }
+            },
+            {
+                "_index": "boxchain_carton_projection_v8",
+                "_type": "carton_projection",
+                "_id": "7a996437-9435-4dad-9a1d-0c8771045bd2",
+                "_score": 1.0,
+                "_source": {
+                    "guid": "7a996437-9435-4dad-9a1d-0c8771045bd2",
+                    "aliases": [],
+                    "carton_size": "size A"
+                }
+            },
+            {
+                "_index": "boxchain_carton_projection_v8",
+                "_type": "carton_projection",
+                "_id": "17e7f45b-57cd-4a19-afc0-288d181d2b41",
+                "_score": 1.0,
+                "_source": {
+                    "guid": "17e7f45b-57cd-4a19-afc0-288d181d2b41",
+                    "aliases": [],
+                    "carton_size": "size A"
+                }
+            },
+            {
+                "_index": "boxchain_carton_projection_v8",
+                "_type": "carton_projection",
+                "_id": "2d8c09de-c991-4200-96e1-aa78cce0950c",
+                "_score": 1.0,
+                "_source": {
+                    "guid": "2d8c09de-c991-4200-96e1-aa78cce0950c",
+                    "aliases": [],
+                    "carton_size": "size A"
+                }
+            },
+            {
+                "_index": "boxchain_carton_projection_v8",
+                "_type": "carton_projection",
+                "_id": "b7905ed8-fa56-415a-9f95-993a4364363b",
+                "_score": 1.0,
+                "_source": {
+                    "guid": "b7905ed8-fa56-415a-9f95-993a4364363b",
+                    "aliases": [],
+                    "carton_size": "size A"
+                }
+            },
+            {
+                "_index": "boxchain_carton_projection_v8",
+                "_type": "carton_projection",
+                "_id": "02f129da-50c3-4300-bdc1-5de9db1db732",
+                "_score": 1.0,
+                "_source": {
+                    "guid": "02f129da-50c3-4300-bdc1-5de9db1db732",
+                    "aliases": [],
+                    "carton_size": "size A"
+                }
+            },
+            {
+                "_index": "boxchain_carton_projection_v8",
+                "_type": "carton_projection",
+                "_id": "36f7baf0-fd8e-4d9f-9f7f-966b26126466",
+                "_score": 1.0,
+                "_source": {
+                    "guid": "36f7baf0-fd8e-4d9f-9f7f-966b26126466",
+                    "aliases": [],
+                    "carton_size": "size A"
+                }
+            },
+            {
+                "_index": "boxchain_carton_projection_v8",
+                "_type": "carton_projection",
+                "_id": "7fbe1fd4-8ecf-40b3-a295-1c8857b2ec55",
+                "_score": 1.0,
+                "_source": {
+                    "guid": "7fbe1fd4-8ecf-40b3-a295-1c8857b2ec55",
+                    "aliases": [],
+                    "carton_size": "size A"
+                }
+            }
+        ]
+    }
+}

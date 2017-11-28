@@ -1,0 +1,9 @@
+{
+    "name": "boxchain-qr-code-generator",
+    "version": "0.0.0",
+    "license": "MIT",
+    "private": true,
+    "dependencies": {
+        "qrcode": "^1.0.0"
+    }
+}
